@@ -55,7 +55,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 4 – Content Type Distribution  
+## Content Type Distribution  
 - Netflix library is **predominantly movies**, with fewer TV shows  
 - **Strategic implications:**  
   - Movies attract broad audiences  
@@ -67,7 +67,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 5 – Geographic Content Source Analysis  
+## Geographic Content Source Analysis  
 - **Top producers:** USA (dominant), India (second), Mexico, Brazil, Turkey, Egypt, Poland  
 - **Insights:**  
   - US + India form dual content supply engines  
@@ -76,7 +76,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 6 – Content Rating Distribution  
+## Content Rating Distribution  
 - **Majority:** TV-MA (mature audiences)  
 - Also significant: TV-14 (teens) and R-rated content  
 - **Strategic implications:**  
@@ -89,7 +89,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 7 – Release Timeline & Growth Trends  
+## Release Timeline & Growth Trends  
 - Accelerated content additions between 2017–2020  
 - Peak growth in 2019–2020 (originals + global rights acquisition)  
 - **Strategic implications:**  
@@ -98,7 +98,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 8 – Content Genre Analysis  
+## Content Genre Analysis  
 - **Popular genres:** International Movies/TV, Drama, Thriller, Comedy, Action & Adventure  
 - **Key insights:**  
   - International content central to strategy  
@@ -111,7 +111,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 9 – Key Insights & Strategic Findings  
+## Key Insights & Strategic Findings  
 - **Content Structure:** Movies dominate, TV shows vital for engagement  
 - **Globalization:** US + India as core engines, but broad global acquisition strategy  
 - **Audience Targeting:** Adult (TV-MA) + teen (TV-14) are focus; family is growth area  
@@ -123,7 +123,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 10 – Strategic Recommendations  
+## Strategic Recommendations  
 1. **Deepen localization strategy** – Expand further in India, Mexico, Brazil, and explore new “blue ocean” markets.  
 2. **Expand family/children’s market** – Add quality G/PG/TV-Y content for family bundles.  
 3. **Optimize recommendation algorithms** – Personalize using country, genre, and rating tags.  
