@@ -63,7 +63,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
   - Balance needed between scale (movies) and depth (TV shows)  
 
 **Visual:**  
-![Content Type Distribution](sandbox:/mnt/data/netflix_ppt_images/slide4_img7.png)  
+![Content Type Distribution]((https://github.com/vinayak1687/Netflix-content-strategy-analysis/blob/db17ca4b2700832aa3e27c40be4eec71157999dd/content%20distribution.png))  
 
 ---
 
