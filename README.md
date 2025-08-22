@@ -10,7 +10,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 1 – Project Overview & Objectives  
+## Project Overview & Objectives  
 - End-to-end data analytics project on Netflix’s content library  
 - Focus: content characteristics, distribution, and trends  
 - Objectives:  
@@ -31,7 +31,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 2 – Key Business Questions  
+## Key Business Questions  
 - How are movies and TV shows distributed on Netflix?  
 - Which countries produce most of the content?  
 - What is the distribution of content ratings?  
@@ -40,7 +40,7 @@ The objective is to generate **data-driven insights** for strategic decision-mak
 
 ---
 
-## Slide 3 – Data Understanding & Preparation  
+## Data Understanding & Preparation  
 - Dataset: Netflix content library (sample dataset; may not fully represent global library)  
 - **Key Fields:** Show_ID, Category, Title, Director, Cast, Country, Release_Date, Rating, Duration, Type  
 - **Data Quality Issues:**  
